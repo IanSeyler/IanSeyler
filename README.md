@@ -2,4 +2,3 @@
 - 👨🏽‍💻 I’m interested in Assembly and C
 - 🧠 I’m currently learning Python
 - 🤝 I’m looking to collaborate on minimal operating systems
-- 📫 How to reach me via email at `firstname @ lastname .me`
