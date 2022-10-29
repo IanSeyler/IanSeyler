@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanSeyler
+- 👋 Hi, I’m Ian Seyler
 - 👨🏽‍💻 I’m interested in Assembly and C
 - 🧠 I’m currently learning Python
 - 🤝 I’m looking to collaborate on minimal operating systems
